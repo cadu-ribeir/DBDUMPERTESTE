@@ -1,0 +1,5 @@
+{
+    "require": {
+        "spatie/db-dumper": "^3.8"
+    }
+}
