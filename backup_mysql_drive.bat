@@ -7,7 +7,7 @@ REM Configurações
 set MYSQL_USER=root
 set MYSQL_PASSWORD=
 set MYSQL_DATABASE=marketplace
-set BACKUP_PATH=X:DBDUMPERTESTE\Backups\
+set BACKUP_PATH=X:Backups\
 set RCLONE_REMOTE=gdrive:BackupsMySQL
 
 REM Criar pasta de backup se não existir
